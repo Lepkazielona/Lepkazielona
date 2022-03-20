@@ -14,11 +14,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-origina
 src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/>
 
 
-https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg
-https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg
-https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
-https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg
-https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg
+
 ---
 
 ## 📈 My Github Stats
