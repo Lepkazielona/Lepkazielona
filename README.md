@@ -11,8 +11,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry pi" width="50" height="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="50" height="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/>
-
+src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/> <img
+src="https://github.com/Lepkazielona/Lepkazielona/blob/main/icons/Terminal_Logo2_CRT_Flat.png" alt="fi.sh" width="50" height="50"/>
 
 
 ---
