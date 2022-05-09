@@ -10,11 +10,12 @@ src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt
 src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="50" height="50"/> <img                             
 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/> <img                             src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/><!-- Ide's !--> <img
-src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/><img 
+src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="Gimp" width="50" height="50"/> <!-- Other Stuff !--><img
 src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry pi" width="50" height="50"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="50" height="50"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50"/>
+src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="50" height="50"/>
+
 
 ---
 
