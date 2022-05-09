@@ -21,4 +21,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-origi
 
 ## 📈 My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lepkazielona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  ![](https://komarev.com/ghpvc/?username=Lepkazielona)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lepkazielona&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+  ![](https://komarev.com/ghpvc/?username=Lepkazielona)
