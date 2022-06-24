@@ -1,4 +1,5 @@
-# Welcome on my github profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome on my github profile!
+
 
 ## Tools that i'm using 🧰
  <!-- OS !-->
