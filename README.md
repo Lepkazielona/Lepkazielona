@@ -17,8 +17,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.sv
 src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry pi" width="50" height="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="50" height="50"/><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-
-https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg
 ---
 
 ## 📈 My Github Stats
