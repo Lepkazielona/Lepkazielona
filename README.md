@@ -19,7 +19,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/djan
 ## 📈 My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lepkazielona&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepkazielona&show_icons=true&theme=merko)
 
 
 
