@@ -12,7 +12,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-o
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs code" width="50" height="50"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="Gimp" width="50" height="50"/> <!-- Other Stuff !--><img
 src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry pi" width="50" height="50"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="50" height="50"/><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
 ---
 
