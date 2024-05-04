@@ -1,4 +1,4 @@
-## <a href="https://lpka.me">My website</a>
+## <a href="https://lepkazielona.github.io/">My website</a>
 
 ## Tools that i'm using 🧰
  <!-- OS !-->
